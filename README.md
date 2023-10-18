@@ -6,6 +6,6 @@ I created this as a excercise to learn Ruby, there are very useful things to kno
 ## To run the app
 You need to have Ruby install in your computer, and then just run 
 ```
-ruby list_app.rb"
+ruby list_app.rb
 ```
- in the console.
+in the console.
